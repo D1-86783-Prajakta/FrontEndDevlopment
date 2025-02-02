@@ -1,0 +1,59 @@
+.container-fluid{
+    margin-top: 0;
+    margin-left:0;
+    margin-right:0;
+    
+   
+}
+.black{
+    background-color:black;
+}
+h1{
+    float:left;
+    color:white;
+}
+h6{
+    float:right;
+    color:white;
+}
+.disp{
+    display:inline;
+}
+.yellow{
+    color:yellow;
+}
+
+.blue{
+    background-color:rgb(3, 88, 122);
+}
+.e{
+    background-color:rgb(3, 88, 122);
+   
+   
+}
+.a{
+    color:rgb(14, 2, 2);
+    font-family: fantasy;
+    font-size: 50px;
+    margin-left: 1cm;
+}
+.b{
+    margin-top: 100px;
+    display:inline-block;
+    color:white;
+}
+.c{
+    
+}
+footer{
+   
+    /* background-color:rgb(3, 88, 122); */
+     margin-top:1cm;
+  /*  margin-left:0.5cm; 
+     margin-right:0.5cm;  */
+    
+}
+.slideshow-container{
+    position:relative;
+    margin:auto;
+}
